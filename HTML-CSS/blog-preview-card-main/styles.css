@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root{
+    --yellow: #F4D04E;
+    --gray-950: #111;
+    --gray-500: #6B6B6B;
+    --white: #FFF;
+    --text-preset-1:  800 24px / 150% "Figtree", sans-serif;
+    --text-preset-2:  500 16px / 150% "Figtree", sans-serif;
+    --text-preset-3:  500 14px / 150% "Figtree", sans-serif;
+    --text-preset-3-bold:  800 14px / 150% "Figtree", sans-serif;
+    --spacing-300: 24px;
+    --spacing-200: 12px;
+    --spacing-100: 8px;
+    --spacing-50: 4px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Figtree";
+}
+
+body{
+    width: 100dvw;
+    height: 100dvh;
+    background: var(--yellow);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card{
+    border: 1px solid var(--gray-950);
+    background: var(--white);
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    gap: var(--spacing-300);
+    padding: var(--spacing-300);
+    box-shadow: 8px 8px 0 0 #000;
+    /* min-width: 327px;
+    max-width: 384px; */
+}
+.card img{
+    border-radius: 10px;
+    height: 200px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-200);
+    color: var(--gray-950);
+    width: 336px;
+
+}
+.topic{
+    font: var(--text-preset-3-bold);
+    background-color: var(--yellow);
+    padding: var(--spacing-50) var(--spacing-200);
+    border-radius: var(--spacing-50);
+}
+.content time{
+    font: var(--text-preset-3);
+}
+.content a{
+    font: var(--text-preset-1);
+    color:  var(--gray-950);
+    text-decoration: none;
+}
+
+.content a:hover{
+    color: var(--yellow);
+}
+
+.description{
+    color: var(--gray-500);
+    font: var(--text-preset-2);
+}
+.author{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    font: var(--text-preset-3-bold);
+    gap: var(--spacing-200);
+}
+.author img{
+    width: 32px;
+    height: 32px;
+}

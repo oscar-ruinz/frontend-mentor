@@ -6,3 +6,4 @@ I'm gonna use this repository to track my progress through my learning process, 
 This projects are made only with HTML and CSS (flexbox/grid).
 
 - [QR code component](/HTML-CSS/qr-code-component-main/README.md)
+- [Blog preview card](/HTML-CSS/blog-preview-card-main/README.md)

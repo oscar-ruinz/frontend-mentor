@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Blog preview card
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/image.png)
+![](./assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [QR code component](https://www.frontendmentor.io/solutions/qr-code-component-with-flexbox-ciJxN_5hwA)
-- Live Site URL: [Live](https://qr-code-component-ruinz.netlify.app/)
+- Solution URL: [Blog preview card](https://your-solution-url.com)
+- Live Site URL: [Live](https://your-live-site-url.com)
 
 ## My process
 
@@ -34,11 +34,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-By doing this challenge with the template on Figma, I learned a new Flexbox property I didn’t even know existed.
+By doing this challenge with the template on Figma, I learned how to define a complete font style in a variable.
 
 ```css
-.card {
-    gap: 24px;
+:root {
+  --text-preset-1:  800 24px / 150% "Figtree", sans-serif;
 }
 ```
 
