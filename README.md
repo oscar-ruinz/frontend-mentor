@@ -7,4 +7,4 @@ This projects are made only with HTML and CSS (flexbox/grid).
 
 - [QR code component](/HTML-CSS/qr-code-component-main/README.md)
 - [Blog preview card](/HTML-CSS/blog-preview-card-main/README.md)
-- [social links profile](HTML-CSS/social-links-profile-main/README.md)
+- [Social links profile](HTML-CSS/social-links-profile-main/README.md)
