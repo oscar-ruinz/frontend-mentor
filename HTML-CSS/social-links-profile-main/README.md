@@ -21,8 +21,8 @@ This is a solution to the [Social links profile](https://www.frontendmentor.io/c
 
 ### Links
 
-- Solution URL: [Social links profile]()
-- Live Site URL: [Live]()
+- Solution URL: [Social links profile](https://www.frontendmentor.io/solutions/social-links-profile---mobile-first---flexbox-BSDpTAScVr)
+- Live Site URL: [Live](https://social-links-profile-ruinz.netlify.app/)
 
 ## My process
 
