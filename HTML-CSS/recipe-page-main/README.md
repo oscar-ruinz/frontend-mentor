@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [QR code component]()
-- Live Site URL: [Live]()
+- Solution URL: [QR code component](https://www.frontendmentor.io/solutions/recipe-page---mobile-first---flexbox-RPkpFNdPDA)
+- Live Site URL: [Live](https://recipe-page-ruinz.netlify.app/)
 
 ## My process
 
