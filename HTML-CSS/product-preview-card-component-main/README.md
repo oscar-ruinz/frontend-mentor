@@ -27,8 +27,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Product preview card component]()
-- Live Site URL: [Live]()
+- Solution URL: [Product preview card component](https://www.frontendmentor.io/solutions/product-preview-card-component---flexbox-Refm0zdtON)
+- Live Site URL: [Live](https://product-preview-card-component-ruinz.netlify.app/)
 
 ## My process
 
