@@ -9,3 +9,4 @@ This projects are made only with HTML and CSS (flexbox/grid).
 - [Blog preview card](/HTML-CSS/blog-preview-card-main/README.md)
 - [Social links profile](HTML-CSS/social-links-profile-main/README.md)
 - [Recipe page](HTML-CSS/recipe-page-main/README.md)
+- [Product preview card component](HTML-CSS/product-preview-card-component-main/README.md)
